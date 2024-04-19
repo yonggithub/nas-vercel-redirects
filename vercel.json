@@ -1,3 +1,9 @@
 {
-  "redirects": []
+  "redirects": [
+    { 
+      "source": "/(.*)", 
+      "destination": "https://nas.tgoo.top:444", 
+      "statusCode": 301 
+    }
+  ]
 }
